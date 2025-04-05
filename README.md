@@ -40,20 +40,19 @@ Edit
    git clone https://github.com/your-username/random-username-generator.git
    cd random-username-generator
 Run the script:
-
-bash
-Copy
-Edit
+  ```bash
 python username_generator.py
+
+
 💾 File Structure
-bash
-Copy
-Edit
 random-username-generator/
 │
 ├── username_generator.py   # Main Python script
 ├── saved_usernames.txt     # File where saved usernames are stored (if saved)
 └── README.md               # Project README
+
+
+
 💡 Future Improvements
 Add GUI support using Tkinter or PyQt
 
